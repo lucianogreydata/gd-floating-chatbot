@@ -1,0 +1,1 @@
+{"version":3,"file":"FloatingButton.d.ts","sourceRoot":"","sources":["../../src/components/FloatingButton.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,OAAO,CAAC;AAE1B,UAAU,mBAAmB;IAC3B,MAAM,EAAE,OAAO,CAAC;IAChB,WAAW,EAAE,MAAM,CAAC;IACpB,YAAY,EAAE,MAAM,CAAC;IACrB,OAAO,EAAE,MAAM,IAAI,CAAC;CACrB;AAED,eAAO,MAAM,cAAc,EAAE,KAAK,CAAC,EAAE,CAAC,mBAAmB,CA4BxD,CAAC"}
